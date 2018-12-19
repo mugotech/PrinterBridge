@@ -30,7 +30,7 @@
 		3B7D56CC2021D78100BF50E8 /* ReceiptUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReceiptUtility.m; sourceTree = "<group>"; };
 		3B7D56CD2021D78100BF50E8 /* ReceiptUtility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReceiptUtility.h; sourceTree = "<group>"; };
 		3B7D56CF2021D78100BF50E8 /* SimplyPrintController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimplyPrintController.h; sourceTree = "<group>"; };
-		3B7D58762021EAD500BF50E8 /* libSimplyPrint.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSimplyPrint.a; path = ../../../../../../../PrinterBridge/ios/Library/libSimplyPrint.a; sourceTree = "<group>"; };
+		3B7D58762021EAD500BF50E8 /* libSimplyPrint.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libSimplyPrint.a; sourceTree = "<group>"; };
 		B3E7B5881CC2AC0600A0062D /* RNPrinterBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNPrinterBridge.h; sourceTree = "<group>"; };
 		B3E7B5891CC2AC0600A0062D /* RNPrinterBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNPrinterBridge.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
